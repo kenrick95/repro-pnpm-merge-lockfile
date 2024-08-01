@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@9.6.0",
+  "dependencies": {
+    "@pnpm/lockfile.fs": "1.0.0",
+    "@pnpm/lockfile.merger": "1.0.0"
+  },
+  "pnpm": {
+    "overrides": {
+      "@pnpm/lockfile.fs": "1.0.0"
+    }
+  }
+}
